@@ -5,7 +5,7 @@ public class Vehiculos {
     public String modelo;
     public int anio;
 
-    public Vehiculos(String color, int placa, String modelo, int anio) {
+    public Vehiculos(String color, String placa, String modelo, int anio) {
         this.color = color;
         this.placa = placa;
         this.modelo = modelo;
