@@ -1,10 +1,8 @@
 
 public class Main {
     public static void main(String[] args) {
-    //
-//Crear la instancia empleado
-        Vehiculos vehiculo1=new Vehiculos("azul","pbc1234","sedan",2020);
+    Vehiculos v1 = new Vehiculos("Azul",7894,"kia",2005);
+    System.out.println(v1);
 
-        vehiculo1.Informacion();
     }
 }
