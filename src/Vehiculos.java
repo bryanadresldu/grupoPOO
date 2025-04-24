@@ -26,9 +26,9 @@ public class Vehiculos {
     }
 
     //metodo Alejandro Guanoluisa
-    public void Frenado() {
+    public void Freno() {
         System.out.println("------Acciones del Vehiculo------");
-        System.out.println("Vehiculo "+placa+" frena");
+        System.out.println("Vehiculo "+placa+" acaba de frenar");
     }
 
 
