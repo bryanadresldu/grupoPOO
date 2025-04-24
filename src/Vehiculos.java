@@ -11,8 +11,10 @@ public class Vehiculos {
         this.modelo = modelo;
         this.anio = anio;
 
-
-
+    }
+    //metodo Alejandro Guanoluisa
+    public void infoVehiculo() {
+        System.out.println("Color: " + color+"\nPlaca: " + placa+"\nModelo: " + modelo+"Año: " + anio);
     }
 
 
