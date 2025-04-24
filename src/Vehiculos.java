@@ -1,7 +1,7 @@
 public class Vehiculos {
 
     public String color;
-    public int placa;
+    public String placa;
     public String modelo;
     public int anio;
 
