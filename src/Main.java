@@ -9,6 +9,9 @@ public class Main {
         vehiculo2.Informacion();
         vehiculo3.Informacion();
 
+        vehiculo1.Frenado();
+        vehiculo2.Frenado();
+        vehiculo3.Frenado();
 
     }
 
