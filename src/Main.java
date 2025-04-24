@@ -4,5 +4,7 @@ public class Main {
     //
 //Crear la instancia empleado
         Vehiculos vehiculo1=new Vehiculos("azul","pbc1234","sedan",2020);
+
+        vehiculo1.Informacion();
     }
 }

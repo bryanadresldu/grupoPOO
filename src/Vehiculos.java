@@ -1,7 +1,7 @@
 public class Vehiculos {
 
     public String color;
-    public int placa;
+    public String placa;
     public String modelo;
     public int anio;
 
@@ -21,10 +21,8 @@ public class Vehiculos {
         System.out.println("Anio: " + anio);
         System.out.println(" ");
 
-    }
-    //metodo Alejandro Guanoluisa
-    public void infoVehiculo() {
-        System.out.println("Color: " + color+"\nPlaca: " + placa+"\nModelo: " + modelo+"Año: " + anio);
+
+
     }
 
 
